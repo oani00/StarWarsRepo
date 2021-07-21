@@ -1,5 +1,5 @@
 # Star Wars Repo
 
-Este repositorio serve de exemplo para o curso de Git e Github. =D
+This repository serves as an example for the Git and Github course. =D
 
 ![tie](Kylo_Ren.jpg "Kylo")
